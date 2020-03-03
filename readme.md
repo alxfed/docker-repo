@@ -24,3 +24,6 @@ curl -d '{"instances": [1.0, 2.0, 5.0]}' \
 </pre>
 <br><br>
 https://www.tensorflow.org/tfx/serving/docker
+<br><br>
+Developing with Docker<br>
+https://www.tensorflow.org/tfx/serving/building_with_docker
